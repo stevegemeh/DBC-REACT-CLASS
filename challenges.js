@@ -2,6 +2,8 @@
 let cart = [
   { name: "Shirt", price: 20, quantity: 2 },
   { name: "Pants", price: 30, quantity: 3 },
+  { name: "Pencil", price: 30, quantity: 3 },
+  { name: "Eraser", price: 50, quantity: 4 }
   { name: "Shoes", price: 50, quantity: 4 }
 ];
 
